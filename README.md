@@ -1,2 +1,5 @@
-# diagram-as-a-code
-Creating diagrams with Python
+# Creating diagrams with Python
+
+### Diagram to be created
+
+![alt text](Img_01.png)
